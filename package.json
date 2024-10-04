@@ -1,0 +1,9 @@
+{
+  "name": "finsweet-recaptcha-verification-function",
+  "version": "1.0.0",
+  "description": "Netlify function for ReCAPTCHA verification and data forwarding",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
